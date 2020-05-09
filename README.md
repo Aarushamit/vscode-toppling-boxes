@@ -1,2 +1,1 @@
-# vscode-toppling-boxes
-toppling boxes
+# Box Class
